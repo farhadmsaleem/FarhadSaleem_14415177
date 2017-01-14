@@ -1,5 +1,5 @@
-/* Name: Farhad Saleem - Student ID: 14415177 */
 @charset "utf-8";
+/* Name: Farhad Saleem - Student ID: 14415177 */
 /* The following code styles everything in the body */
 body{
   background-color: lightgrey;
@@ -22,7 +22,7 @@ h1 img {
   float: left;
   width: 75px;
 }
-
+/* Following code is for the styling of the footer */
 footer{
   padding: 20px;
   color: white;
@@ -124,7 +124,7 @@ li a{
     padding: 14px 70px;
     text-decoration: none;
 }
-/* Here is the code i have used to make my nav button change colour whilst being hovered on*/
+/* Here is the code i have used to make my nav button change colour whilst being hovered on */
 li a:hover:not(.active){
     background-color: #999;
 }
